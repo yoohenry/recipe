@@ -10,6 +10,7 @@ img {
 }
 
 img:hover {
+	/*gives effect to pictures when cursor is on them*/
 	transform: scale(1.1, 1.1);
 	border-color: #FF5E00;
 }
